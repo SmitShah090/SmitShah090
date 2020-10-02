@@ -1,5 +1,6 @@
 
 ![](https://github.com/SmitShah090/SmitShah090/blob/master/LinkedIn%20Cover%20-%202.png)
+
 ### Hi there 👋, my name is Smit Shah
 Currently I am pursuing 3rd year of B.Tech CSE in CHARUSAT UNIVERSITY. I am a self taught and self motivated developer. Now, I'm Proficient in creative  design and building responsive web apps. I never stopped engaging myself to enhance my skills.
 
@@ -15,5 +16,5 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight)
 
-
+![Profile views](https://gpvc.arturio.dev/SmitShah090)
 
