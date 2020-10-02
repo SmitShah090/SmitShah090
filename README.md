@@ -5,14 +5,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on javascript framework/libraries
 - 🌱 I’m currently learning MERN stack 
 - 👯 I’m looking to collaborate on react projects
+- 📫 How to reach me: https://www.linkedin.com/in/smit-shah-a5bb28199/
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <link href="https://www.linkedin.com/in/smit-shah-a5bb28199/" >
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=SmitShah090&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
