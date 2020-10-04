@@ -38,9 +38,13 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-- 💻 &nbsp; Python | C++ | C | MySQL
+
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React-native
+
+- 🖥 &nbsp; Figma | Framer | AE
+
+- 💻 &nbsp; Python | C++ | C | MySQL
 
 <!--
 
