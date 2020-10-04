@@ -68,7 +68,7 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SmitShah090}/count.svg" alt="SmitShah :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SmitShah090}/count.svg"  alt="SmitShah :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -122,7 +122,6 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
