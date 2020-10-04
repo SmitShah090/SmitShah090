@@ -72,10 +72,10 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight" alt="SmitShah :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitShah090O&langs_count=10&theme=tokyonight&layout=compact" alt="SmitShah :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=syntokyonight" alt="SmitShah :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight" alt="SmitShah :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
