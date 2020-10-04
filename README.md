@@ -101,7 +101,7 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-<p align="right">
+<p align="left">
   - ✍️ &nbsp;
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> <br>
   - ✍️ &nbsp;
