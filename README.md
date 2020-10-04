@@ -16,19 +16,19 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/SmitShah090)
 -->
 
-### नमस्ते 🙏,<h2> I'm Shivam</h2>
+### नमस्ते 🙏,<h2> I'm Smit</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻💻 About Me </h3>
+<h3> 👨🏻 About Me </h3>
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at CHARUSAT UNIVERSITY.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about creative design and MERN stack development.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -38,9 +38,9 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | React-native
 
 <!--
 
