@@ -64,37 +64,32 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 <hr>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="left">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="left">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SmitShah090}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{SmitShah090}/count.svg" alt="SmitShah :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="left">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight" alt="SmitShah :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="left">Profile stats :musical_keyboard:</h4>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=synthwave" alt="SmitShah :: Profile Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="left"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 <br/><br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight)
-
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight)
 <br/>
-
 <br/>
-
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
-
 <br><br>
-
+ -->
 
 
 <hr>
