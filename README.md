@@ -101,14 +101,14 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-<p align="left">
-  - ✍️ &nbsp;
+<p align="center">
+  
 <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> <br>
-  - ✍️ &nbsp;
+  
 <a href="https://www.linkedin.com/in/smit-shah-a5bb28199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SmitShah-blue?style=flat&logo=linkedin"></a> <br>
-  - ✍️ &nbsp;
+  
 <a href="https://www.youtube.com/channel/UC2tTvU2WXHHVfjjyz9kr8RQ?view_as=subscriber" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Youtube-SmitShah-blue?style=flat&logo=Youtube"></a> <br>
-  - ✍️ &nbsp;
+  
 <a href="mailto:smit.web.cs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smit.web.cs@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
