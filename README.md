@@ -60,7 +60,7 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase 
 
 <hr>
 
@@ -68,7 +68,7 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmitShah090&show_icons=true&theme=tokyonight)
 
 <br/>
 
