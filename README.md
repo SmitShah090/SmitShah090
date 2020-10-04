@@ -1,5 +1,8 @@
 
-![](https://github.com/SmitShah090/SmitShah090/blob/master/LinkedIn%20Cover%20-%202.png)
+<!--- ![](https://github.com/SmitShah090/SmitShah090/blob/master/LinkedIn%20Cover%20-%202.png) -->
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
 ### Hi there 👋, my name is Smit Shah
 Currently I am pursuing 3rd year of B.Tech CSE in CHARUSAT UNIVERSITY. I am a self taught and self motivated developer. Now, I'm Proficient in creative  design and building responsive web apps. I never stopped engaging myself to enhance my skills.
