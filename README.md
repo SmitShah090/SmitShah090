@@ -58,10 +58,9 @@ Skills: REACT / REACT-NATIVE / JS / HTML / CSS
 
 
 
-<h3>🛠 To Learn</h3>
-
+<!--<h3>🛠 To Learn</h3>
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase 
-
+-->
 <hr>
 
 <h2 align="left">Github stats :bar_chart:</h2>
